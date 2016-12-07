@@ -1,5 +1,7 @@
 # Ruby on Rails
 
+[![Twitter](https://img.shields.io/badge/twitter-@brunodlz-red.svg?style=flat)](https://twitter.com/brunodlz)
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
